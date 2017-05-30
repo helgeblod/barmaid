@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    barby (0.6.5)
+    chunky_png (1.3.8)
+    mustermann (1.0.0)
+    rack (2.0.3)
+    rack-protection (2.0.0)
+      rack
+    sinatra (2.0.0)
+      mustermann (~> 1.0)
+      rack (~> 2.0)
+      rack-protection (= 2.0.0)
+      tilt (~> 2.0)
+    tilt (2.0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  barby
+  chunky_png
+  sinatra
+
+BUNDLED WITH
+   1.15.0
